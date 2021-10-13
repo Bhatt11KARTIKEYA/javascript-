@@ -1,0 +1,1 @@
+[{"name":"New Zealand","match":[]},{"name":"England","match":[]},{"name":"Australia","match":[]},{"name":"India","match":[]},{"name":"South Africa","match":[]},{"name":"Sri Lanka","match":[]},{"name":"Pakistan","match":[]},{"name":"Bangladesh","match":[]},{"name":"West Indies","match":[]},{"name":"Afghanistan","match":[]}]
